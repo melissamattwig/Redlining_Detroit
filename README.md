@@ -5,6 +5,7 @@ A python project that uses a redlining dataset (JSON) from Detroit 1936 to creat
 * [General info](#general-info)
 * [Skills gained](#skills-gained)
 * [Technologies](#technologies)
+* [Expected Outputs](#expectedoutputs)
 * [Setup](#setup)
 
 ## General info
@@ -20,6 +21,23 @@ This project reads Detroit redlining data from 1936 as a JSON from the Universit
 Project is created with:
 * Visual Studio Code version 1.76.2
 * Python Version 3.11
+
+## Expected Outputs
+You should have a map that ressembles this:
+![image](https://user-images.githubusercontent.com/60607975/228695296-5b17a3a7-c29b-49ae-b5f8-f3690e06d96b.png)
+
+79754.14285714286 - Mean income for district grade A
+73067.5 - Median income for district grade A
+63827.55263157895
+65259.0
+41673.64150943396
+36208.0
+31614.979591836734
+28786
+A most common word: high
+B most common word: houses
+C most common word: explanation
+D most common word: sheet
 	
 ## Setup
 To run this project:
