@@ -24,7 +24,10 @@ Project is created with:
 
 ## Expected Outputs
 You should have a map that ressembles this:
+
 ![image](https://user-images.githubusercontent.com/60607975/228695296-5b17a3a7-c29b-49ae-b5f8-f3690e06d96b.png)
+
+And the following outputs:
 
 79754.14285714286 - Mean income for district grade A
 
