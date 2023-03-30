@@ -1,6 +1,5 @@
 #
 # Name: Melissa Mattwig
-# uniquename: mmattwig
 #
 
 import requests
