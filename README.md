@@ -46,9 +46,13 @@ And the following outputs:
 28786 - Median income for district grade D
 
 A most common word: high
+
 B most common word: houses
+
 C most common word: explanation
+
 D most common word: sheet
+
 	
 ## Setup
 To run this project:
