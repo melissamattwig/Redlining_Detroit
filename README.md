@@ -27,13 +27,21 @@ You should have a map that ressembles this:
 ![image](https://user-images.githubusercontent.com/60607975/228695296-5b17a3a7-c29b-49ae-b5f8-f3690e06d96b.png)
 
 79754.14285714286 - Mean income for district grade A
+
 73067.5 - Median income for district grade A
-63827.55263157895
-65259.0
-41673.64150943396
-36208.0
-31614.979591836734
-28786
+
+63827.55263157895 - Mean income for district grade B
+
+65259.0 - Median income for district grade B
+
+41673.64150943396 - Mean income for district grade C
+
+36208.0 - Median income for district grade C
+
+31614.979591836734 - Mean income for district grade D
+
+28786 - Median income for district grade D
+
 A most common word: high
 B most common word: houses
 C most common word: explanation
