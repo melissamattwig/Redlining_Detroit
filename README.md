@@ -57,7 +57,9 @@ D most common word: sheet
 ## Setup
 To run this project:
 
+Make sure that the JSON Census file is in the same folder as the .py file
+
 ```
-$ 
-$ 
+$ cd ../redlining_detroit
+$ python3 redlining_detroit.py
 ```
