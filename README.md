@@ -1,4 +1,4 @@
-# Redlining in Detroit for SI 507 (Intermediate Python) at the University of Michigan
+# Redlining in Detroit
 A python project that uses a redlining dataset from Detroit in 1936 to create a map based on the district grades. It will also use census data to to find current median income data to determine the redlining legacy in Detroit.
 
 ## Table of contents
